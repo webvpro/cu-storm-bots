@@ -1,0 +1,36 @@
+{
+    "projectId": "63d461745e6affb649cb",
+    "projectName": "CU-BOTS",
+    "functions": [
+        {
+            "$id": "63d72056d57b69769dad",
+            "name": "MemberByRoleList",
+            "runtime": "node-16.0",
+            "path": "functions/MemberByRoleList",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        },
+        {
+            "$id": "63d8148c6c5f787308ba",
+            "name": "MemberByRoleList",
+            "runtime": "node-16.0",
+            "path": "functions/MemberByRoleList",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
